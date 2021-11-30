@@ -2,4 +2,4 @@
 
 Desafio Chapter 01 do curso Ignite da Rocketseat | Trilha de React
 
-<img src="./img/todolist.png"/>
+<img src="./public/img/todolist.png"/>
