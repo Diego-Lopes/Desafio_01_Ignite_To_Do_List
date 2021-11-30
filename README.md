@@ -1,4 +1,4 @@
-# Desafio_01_Ignite_To_Do_List
+# Desafio 01 Ignite To Do List | Trilha Reactjs
 
 Desafio Chapter 01 do curso Ignite da Rocketseat | Trilha de React
 
